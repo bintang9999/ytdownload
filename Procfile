@@ -1,1 +1,1 @@
-worker: yt.py
+worker: python yt.py
